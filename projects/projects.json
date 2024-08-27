@@ -72,12 +72,12 @@
     }
   },
   {
-    "name": "Revenue-analysis-of-hospitality-domain",
-    "desc": "This project, a resume challenge by A company is facing a loss in market share and revenue in the luxury/business hotel category due to ineffective management decision-making.",
-    "image": "Revenue-analysis-of-hospitality-domain",
+    "name": "Deepak-Portfolio",
+    "desc": "This is my personal portfolio website showcasing my skills, projects, and achievements. The website is built using [mention the technologies you used, e.g., HTML, CSS, JavaScript, React, etc.] and hosted on Netlify.",
+    "image": "Deepak-Portfolio",
     "links": {
-      "view": "https://github.com/Deepusain/Revenue-analysis-of-hospitality-domain",
-      "code": "https://github.com/Deepusain/Revenue-analysis-of-hospitality-domain"
+      "view": "https://deepak-nai-portfolio.netlify.app",
+      "code": "https://github.com/Deepusain/Deepak-Portfolio"
     }
   },
   {
@@ -87,6 +87,15 @@
     "links": {
       "view": "https://github.com/Deepusain/Ecommerce-Python-Sql-Data-Analytics-Project",
       "code": "https://github.com/Deepusain/Ecommerce-Python-Sql-Data-Analytics-Project"
+    }
+  },
+  {
+    "name": "Revenue-analysis-of-hospitality-domain",
+    "desc": "This project, a resume challenge by A company is facing a loss in market share and revenue in the luxury/business hotel category due to ineffective management decision-making.",
+    "image": "Revenue-analysis-of-hospitality-domain",
+    "links": {
+      "view": "https://github.com/Deepusain/Revenue-analysis-of-hospitality-domain",
+      "code": "https://github.com/Deepusain/Revenue-analysis-of-hospitality-domain"
     }
   },
   {
