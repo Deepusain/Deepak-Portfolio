@@ -1,7 +1,9 @@
 ## Deepak-Portfolio-Website
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
-<a href="#" target="_blank">**Visit Now** 🚀</a>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/56581936-e4cd-4abe-93b9-7b08841458fe/deploy-status)](https://app.netlify.com/sites/deepak-nai-portfolio/deploys)
+
+<a href="https://deepak-nai-portfolio.netlify.app" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
