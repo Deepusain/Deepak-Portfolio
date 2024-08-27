@@ -1,0 +1,138 @@
+[
+  {
+    "name": "MailWiz AI",
+    "desc": "MailWiz AI is a powerful tool designed to simplify the process of generating personalized emails using Gemini AI.",
+    "image": "MailWiz-AI",
+    "links": {
+      "view": "https://github.com/Deepusain/MailWiz-AI",
+      "code": "https://github.com/Deepusain/MailWiz-AI"
+    }
+  },
+  {
+    "name": "Real-Estate-Price-Prediction",
+    "desc": "This is a web application deployed using FastAPI Framework that predicts the price of a property based on certain features of the property using machine learning.",
+    "image": "real estate price prediction",
+    "links": {
+      "view": "https://github.com/Deepusain/Real-Estate-Price-Prediction",
+      "code": "https://github.com/Deepusain/Real-Estate-Price-Prediction"
+    }
+  },
+  {
+    "name": "Code-Indentator",
+    "desc": "Code Indentator is a web application that automatically indents code of any programming language that you paste into it.",
+    "image": "Code-Indentator",
+    "links": {
+      "view": "https://github.com/Deepusain/Code-Indentator",
+      "code": "https://github.com/Deepusain/Code-Indentator"
+    }
+  },
+  {
+    "name": "cricket-data-analytics",
+    "desc": "The Cricket Data Analytics🏏 project is made on T-20 Cricket World Cup Data. I have used Power BI for making the Dashboard.",
+    "image": "cricket-data-analytics",
+    "links": {
+      "view": "https://user-images.githubusercontent.com/81465377/211144386-48070a65-7e8b-4370-af44-121b878b554b.jpg",
+      "code": "https://github.com/Deepusain/cricket-data-analytics-project"
+    }
+  },
+  {
+    "name": "My-music-app",
+    "desc": "This is a music  Web application is fully responsive with a good User Interface using API.",
+    "image": "My-music-app",
+    "links": {
+      "view": "https://github.com/Deepusain/My-music-app",
+      "code": "https://github.com/Deepusain/My-music-app"
+    }
+  },
+  {
+    "name": "leetcode",
+    "desc": "I solve multiple problems at leetcode with useing c++ , Python , Python3 , Pandas and Other language's. ",
+    "image": "leetcode",
+    "links": {
+      "view": "https://leetcode.com/deepak_nai/",
+      "code": "https://github.com/Deepusain/leetcode"
+    }
+  },
+  {
+    "name": "Breast-Cancer-Detection",
+    "desc": "Accurately identifying and categorizing breast cancer subtypes is an important clinical task.",
+    "image": "Breast cancer detection",
+    "links": {
+      "view": "https://github.com/Deepusain/Breast-Cancer-Detection-Project-using-Deep-Learning",
+      "code": "https://github.com/Deepusain/Breast-Cancer-Detection-Project-using-Deep-Learning"
+    }
+  },
+  {
+    "name": "snake-game",
+    "desc": "The game allows players to control a snake that grows in size as it eats food while avoiding collisions with walls or its own tail.",
+    "image": "snake-game",
+    "links": {
+      "view": "https://github.com/Deepusain/snake-game",
+      "code": "https://github.com/Deepusain/snake-game"
+    }
+  },
+  {
+    "name": "Revenue-analysis-of-hospitality-domain",
+    "desc": "This project, a resume challenge by A company is facing a loss in market share and revenue in the luxury/business hotel category due to ineffective management decision-making.",
+    "image": "Revenue-analysis-of-hospitality-domain",
+    "links": {
+      "view": "https://github.com/Deepusain/Revenue-analysis-of-hospitality-domain",
+      "code": "https://github.com/Deepusain/Revenue-analysis-of-hospitality-domain"
+    }
+  },
+  {
+    "name": "Ecommerce-Python-Sql-Data-Analytics-Project",
+    "desc": "This project involves analyzing e-commerce data using Python and SQL within a Jupyter Notebook environment",
+    "image": "Ecommerce-Python-Sql-Data-Analytics-Project",
+    "links": {
+      "view": "https://github.com/Deepusain/Ecommerce-Python-Sql-Data-Analytics-Project",
+      "code": "https://github.com/Deepusain/Ecommerce-Python-Sql-Data-Analytics-Project"
+    }
+  },
+  {
+    "name": "Blood Cancer Detection ",
+    "desc": "This project aims to develop a deep learning model for blood cancer detection using Convolutional Neural Networks (CNNs).",
+    "image": "Blood Cancer Detection using Deep Learning",
+    "links": {
+      "view": "https://github.com/Deepusain/Blood-Cell-Cancer-Detection-Using-Deep-Learning",
+      "code": "https://github.com/Deepusain/Blood-Cell-Cancer-Detection-Using-Deep-Learning"
+    }
+  },
+  {
+    "name": "Youtube-clone",
+    "desc": "The website provides users with a seamless shopping experience by allowing them to browse products, view product details, and add items to the cart.",
+    "image": "Youtube-clone",
+    "links": {
+      "view": "https://github.com/Deepusain/Youtube-clone",
+      "code": "https://github.com/Deepusain/Youtube-clone"
+    }
+  },
+  {
+    "name": "AvCart-Ecommerce",
+    "desc": "The website provides users with a seamless shopping experience by allowing them to browse products, view product details, and add items to the cart.",
+    "image": "AvCart-Ecommerce",
+    "links": {
+      "view": "https://github.com/Deepusain/AvCart-Ecommerce-Website",
+      "code": "https://github.com/Deepusain/AvCart-Ecommerce-Website"
+    }
+  },
+  {
+    "name": "News-Application",
+    "desc": "The application fetches the latest news articles from various sources and displays them to users in an organized and user-friendly interface.",
+    "image": "News-Application",
+    "links": {
+      "view": "https://github.com/Deepusain/News-Application",
+      "code": "https://github.com/Deepusain/News-Application"
+    }
+  },
+  {
+    "name": "Wearther-reporting-application",
+    "desc": "The application provides real-time weather updates for cities worldwide with detailed weather information.",
+    "image": "Wearther-reporting-application",
+    "links": {
+      "view": "https://github.com/Deepusain/Wearther-reporting-application",
+      "code": "https://github.com/Deepusain/Wearther-reporting-application"
+    }
+  }
+]
+
