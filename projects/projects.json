@@ -73,7 +73,7 @@
   },
   {
     "name": "Deepak-Portfolio",
-    "desc": "This is my personal portfolio website showcasing my skills, projects, and achievements. The website is built using HTML, CSS, JavaScript, React, etc. and hosted on Netlify.",
+    "desc": "This is my personal portfolio website showcasing my skills, projects, and achievements. The website is hosted on Netlify.",
     "image": "Deepak-Portfolio",
     "links": {
       "view": "https://deepak-nai-portfolio.netlify.app",
