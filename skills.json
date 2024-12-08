@@ -125,15 +125,15 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "Flask",
-        "icon": "https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000"
-    },
+    }
     <!-- 
     {
         "name": "Android",
         "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+    },
+    {
+        "name": "Flask",
+        "icon": "https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000"
     },
     {
         "name": "Machine Learning",
@@ -146,5 +146,6 @@
     {
         "name": "Natural language processing (NLP)",
         "icon": "https://img.icons8.com/?size=100&id=TEiLRURnbBpn&format=png&color=000000"
-    }-->
+    }
+    -->
 ]
